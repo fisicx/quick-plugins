@@ -1,4 +1,4 @@
 quick-plugins
 =============
 
-WordPress Quick Plugind
+WordPress Quick Plugins
